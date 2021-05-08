@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://share-ds.github.io</id>
+    <title>分享D师</title>
+    <updated>2021-05-08T14:45:56.659Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://share-ds.github.io"/>
+    <link rel="self" href="https://share-ds.github.io/atom.xml"/>
+    <subtitle>分享是一种快乐！各种绿色软件|干货资料|免费教程等你来发现！</subtitle>
+    <logo>https://share-ds.github.io/images/avatar.png</logo>
+    <icon>https://share-ds.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, 分享D师</rights>
+</feed>
